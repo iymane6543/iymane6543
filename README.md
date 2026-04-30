@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎯 Seeking a **2-month internship (July–August 2026)** in Software Development
+
 - 🔭 Currently building a **Car Rental Platform** (full-stack web app)
 - 🌱 Learning **real-time network traffic analysis** & **ML model deployment**
 - 🧠 Passionate about **AI-powered cybersecurity** & **intrusion detection systems**
