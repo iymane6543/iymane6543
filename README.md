@@ -1,4 +1,4 @@
-# Iymane Bolakhrief
+# Iymane Bolakhrif
 
 🎓 **Software Engineering Student**  | 💻 **Full-Stack Developer**
 
@@ -87,12 +87,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Iymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=iymane6543&show_icons=true&theme=default&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iymane6543&layout=compact&theme=default)
-
----
 
 > · Open to opportunities
