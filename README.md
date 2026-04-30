@@ -1,6 +1,6 @@
 # Iymane Bolakhrief
 
-🎓 **Software Engineering Student** | 🔐 **AI & Cybersecurity Enthusiast** | 💻 **Full-Stack Developer**
+🎓 **Software Engineering Student**  | 💻 **Full-Stack Developer**
 
 
 📍 **Rabat, Morocco**
